@@ -1,5 +1,7 @@
 # Inverse Optimal Control for Safety-Critical Processes in Exothermic CSTRs
 
+> [中文版见下方 / Chinese version below](#中文版)
+
 > A MATLAB-based computational framework for designing and simulating nonlinear control strategies to prevent stochastic thermal runaway in Continuous-Stirred Tank Reactors (CSTRs) using Potential Shaping and Extreme Value Theory (EVT).
 
 ---
@@ -140,7 +142,7 @@ To render the Extreme Value Distributions (Figure 5) and Time Domain Comparisons
 ```matlab
 run('controller_synthesis3_smooth.m')
 ```
-
+<a id="中文版"></a>
 # 放热连续搅拌釜式反应器（CSTR）安全关键过程的逆向最优控制
 
 > 基于 MATLAB 的数值计算框架，利用势函数赋形（Potential Shaping）与极值理论（EVT）设计并仿真非线性控制策略，以防止连续搅拌釜式反应器（CSTR）发生随机热失控。
